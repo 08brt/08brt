@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @08brt
+- 👋 Hi, I’m Bart
 - 👀 I’m interested in programing and building very unreliable race cars
 - 🌱 I’m currently learning SwiftUI
-- 📫 How to reach me personal email: bw2645@gmail.com
+- 📫 How to reach me: BW2645@gmail.com
 
 **Undertaken Projects**
 - **Excel-Transfer (Java)**
