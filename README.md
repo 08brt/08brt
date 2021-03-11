@@ -11,7 +11,7 @@ This project can be found on my GitHub. The program takes two Excel files 'Codeb
 This is a private project, cannot be found on GitHub. This is an Android application dedicated for the automotive industry mainly focusing on bodyshops and mechanics. The first side of the app allows a mechanic to create a full vehicle health check report, store the report internally, export the report to a personal email or a customer email. The second side of the app is aimed at a bodyshop. A report is created based on the vehicles bodypanel condition. The report allows for up to 20 images to be sorted. Just like the previous side of the app you can internally store these reports, export them to a personal email or a clients email.
 
 - **BATMan (C#)**
-This project can be found on my GitHub. This is a program that recieves a logfile from an external system, decodes each line and creates a new file as an input file so the previous log file can be replicated on the system. This is my largest data conversion program. On a average run the program complies 40 million characters within 115 seconds.
+This is a private project, cannot be found on GitHub (EXAMPLE OF WORK, NOT FULL PROJECT). This is a program that recieves a logfile from an external system, decodes each line and creates a new file as an input file so the previous log file can be replicated on the system. This is my largest data conversion program. On a average run the program complies 40 million characters within 115 seconds.
 
 - **HeathCheck (IOS)**
 This is a private project, cannot be found on GitHub. This is the same as the Android version but on IOS
