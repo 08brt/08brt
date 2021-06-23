@@ -19,7 +19,8 @@ This is a private project, cannot be found on GitHub. This is the same as the An
 - **Instagram Automation Bot (Python)**
 This is a private project, cannot be found on GitHub. Program has been created to automate an Instagram. This can be used to grow engagement on a account. Features consist: Automatically logs you into Instagram, Follows and likes pictures in a given hashtag, Follows users from another account, Follows users from another account recent picture
 
-- **Banking Socket Testing (Java)**
+- **Socket Testing Bank (Java)**
+This is a private project, cannot be found on GitHub. Program for a popular bank in europe. They had a request to test specific ports on their system to see how their system handles under pressure. This involved sending multiple requests simulating real time usage
 
-
-- **Bank Connection to External System (Java)**
+- **Connection to an External Database System Bank (Java)**
+This is a private project, cannot be found on GitHub. Program that is console based that connects to a private exteranl software database. The program downloads forms saves fields as variables and then is able to submit new data to the form fields.
