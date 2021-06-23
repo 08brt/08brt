@@ -18,3 +18,8 @@ This is a private project, cannot be found on GitHub. This is the same as the An
 
 - **Instagram Automation Bot (Python)**
 This is a private project, cannot be found on GitHub. Program has been created to automate an Instagram. This can be used to grow engagement on a account. Features consist: Automatically logs you into Instagram, Follows and likes pictures in a given hashtag, Follows users from another account, Follows users from another account recent picture
+
+- **Banking Socket Testing (Java)**
+
+
+- **Bank Connection to External System (Java)**
