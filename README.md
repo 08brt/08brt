@@ -1,9 +1,13 @@
 - 👋 Hi, I’m Bart
-- 👀 I’m interested in programming and building very unreliable race cars
-- 🌱 I’m currently learning SwiftUI
+- 👀 I’m interested in programming and building race cars
+- 🌱 I’m currently learning Web Development with FullStackOpen
 - 📫 How to reach me: BW2645@gmail.com
 
 **Undertaken Projects (Most Recent First)**
+- **Unisys Wiki (SwiftUI)**
+
+- **FitmentStudio (SwiftUI) - https://fitment.studio/**
+
 - **Connection to Banking Mainframe Forms System (Java)**
 This is a private project, cannot be found on GitHub. This is a program to automate filling out a form on a bank's mainframe system. The program connects to the desired form by an IP and port. Each field on the form is downloaded and the data corresponding to the field. You can edit, update, delete, add fields as you desire. Every function is hardcoded as the client wanted a basic version of the program so they can develop it in-house themself at a future date.
 
@@ -13,7 +17,7 @@ This is a private project, cannot be found on GitHub. This is a program for a po
 - **Instagram Automation Bot (Python)**
 This is a private project, cannot be found on GitHub. This is a program that has been created to automate Instagram. The idea for this program was to automate and help grow my automotive Instagram page. The program had a list of hashtags and popular users stored. There were 3 main methods, 1st was to like and comment on pictures from a hashtag, 2nd was to follow users from a specific user's account, 3rd was to follow users from specific users' recently liked photos. The program gained quite a bit of publicity on my account.
 
-- **HeathCheck (Android & IOS)**
+- **HeathCheck (Android & IOS) - https://health-check.uk/**
 This is a private project, cannot be found on GitHub. Both of the programs on Android and IOS have been created however not available on the store. This is an application dedicated to the automotive industry mainly focusing on body shops and mechanics. The first side of the app allows a mechanic to create a full vehicle health check report, store the report internally, export the report to a personal email or a customer email. The second side of the app is aimed at a Bodyshop. A report is created based on the vehicle's body panel condition. The report allows for up to 20 images to be sorted. Just like the previous side of the app, you can internally store these reports, export them to a personal email or a client's email. This is a live program currently being used by a garage.
 
 - **BATMan (C#)**
