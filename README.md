@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web Development with FullStackOpen
 - 📫 How to reach me: BW2645@gmail.com
 
-**Undertaken Projects (Most Recent First)**
+**My Projects (Most Recent First)**
 - **Unisys Wiki (SwiftUI)**
 
 - **FitmentStudio (SwiftUI) - https://fitment.studio/**
