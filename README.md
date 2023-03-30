@@ -8,6 +8,8 @@
 
 - **FitmentStudio (SwiftUI) - https://fitment.studio/**
 
+- **Job Check (Java)**
+
 - **Connection to Banking Mainframe Forms System (Java)**
 This is a private project, cannot be found on GitHub. This is a program to automate filling out a form on a bank's mainframe system. The program connects to the desired form by an IP and port. Each field on the form is downloaded and the data corresponding to the field. You can edit, update, delete, add fields as you desire. Every function is hardcoded as the client wanted a basic version of the program so they can develop it in-house themself at a future date.
 
