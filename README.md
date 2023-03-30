@@ -5,10 +5,13 @@
 
 **My Projects (Most Recent First)**
 - **Unisys Wiki (SwiftUI)**
+This is a private project, cannot be found on GitHub. This is my dissetation for my university final project. The purpose of this project is to create a cross-platform iOS app that will provide new hires and apprentices with valuable information and resources in a secure manner. This app will be built on existing intranet site and will be expanded with a server database as the current website uses a csv file. The app will serve as a one-stop-shop for all relevant information, including client details and industry-specific acronyms. The features include: Welcome page, Login page (Firebase Auth), Forgot password page, Account creation done by system admin, Creation of firebase for datastore and login authentication, Homepage, Acronym search, Client’s page, About us page, Settings page, Contact me section, Unisys branding and colour pallet 
 
 - **FitmentStudio (SwiftUI) - https://fitment.studio/**
+This is a private project, cannot be found on GitHub. Ever find yourself wondering what wheels will fit your car? How do they look on your car? What wheels will look as good as your imagination? Look no further FitmentStudio has it all! Features include: Fitment Calculator - to help you find the perfect size wheel for your vehicle including camber adjustment. Fitment Gallery - powered by the community. View and upload details about your fitment including the specs of the wheels and an image of the car. Sponsors - ability to find automotive companies to help you with your build at your finger tips.
 
 - **Job Check (Java)**
+This project can be found on my GitHub.
 
 - **Connection to Banking Mainframe Forms System (Java)**
 This is a private project, cannot be found on GitHub. This is a program to automate filling out a form on a bank's mainframe system. The program connects to the desired form by an IP and port. Each field on the form is downloaded and the data corresponding to the field. You can edit, update, delete, add fields as you desire. Every function is hardcoded as the client wanted a basic version of the program so they can develop it in-house themself at a future date.
