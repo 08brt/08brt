@@ -1,32 +1,29 @@
-- 👋 Hi, I’m Bart
-- 👀 I’m interested in programming and building race cars
-- 🌱 I’m currently learning Web Development with FullStackOpen
-- 📫 How to reach me: BW2645@gmail.com
+# Hi there! 👋
 
-**My Projects (Most Recent First)**
-- **Unisys Wiki (SwiftUI)**
-This is a private project, cannot be found on GitHub. This is my dissetation for my university final project. The purpose of this project is to create a cross-platform iOS app that will provide new hires and apprentices with valuable information and resources in a secure manner. This app will be built on existing intranet site and will be expanded with a server database as the current website uses a csv file. The app will serve as a one-stop-shop for all relevant information, including client details and industry-specific acronyms. The features include: Welcome page, Login page (Firebase Auth), Forgot password page, Account creation done by system admin, Creation of firebase for datastore and login authentication, Homepage, Acronym search, Client’s page, About us page, Settings page, Contact me section, Unisys branding and colour pallet 
+As a highly skilled back-end Java Developer in the IT industry for 5 years, I specialise in Java
+8/17, SwiftUI, Spring Boot, Maven, and Microservices, with extensive experience in cloud
+platforms like Google Cloud Platform and Azure. My skills include Docker, CI/CD Pipelines,
+Git, and creating RESTful APIs using OpenAPI Swagger. I have worked on FinTech projects,
+enhancing my expertise in TDD with JUnit, database development with MySQL, PostgreSQL,
+NoSQL, and Flyway Migration Scripts. I have integrated generative AI into Spring Boot
+applications, creating internal ChatGPT tools for streamlining code reviews. I am committed to
+writing DRY code and delivering robust, scalable applications.
 
-- **FitmentStudio (SwiftUI) - https://fitment.studio/**
-This is a private project, cannot be found on GitHub. Ever find yourself wondering what wheels will fit your car? How do they look on your car? What wheels will look as good as your imagination? Look no further FitmentStudio has it all! Features include: Fitment Calculator - to help you find the perfect size wheel for your vehicle including camber adjustment. Fitment Gallery - powered by the community. View and upload details about your fitment including the specs of the wheels and an image of the car. Sponsors - ability to find automotive companies to help you with your build at your finger tips.
+## 🚀 My Skills
 
-- **Job Check (Java)**
-This project can be found on my GitHub. An enterprise system has a list of jobs that need to be running nonstop on both production and development. It's difficult to check if everything is running as there are so many jobs and there won't always be an error. To battle this problem I created a java program that does just this. You enter a list of running jobs from the system. The Java program does its magic and lets you know if any jobs aren't running. Problems encountered, jobs can be up to 6 characters in length. If they are 6 characters and the system is restarted the last character in its name increases alphabetically. If the name is less than 6 characters a new letter in alphabetical order is added to the end. This means you can't simply compare running job names to what should be running as certain jobs will have different end characters. To fix this the first search is exact. The second search removes the last character from the running jobs. The third search removes the last character from both running jobs and what should be running. Any jobs left over mean that they are not currently running on the system and need to be started imminently
+- **Languages:** Java, Python, C#, SwiftUi
+- **Frameworks:** Spring Boot
 
-- **Connection to Banking Mainframe Forms System (Java)**
-This is a private project, cannot be found on GitHub. This is a program to automate filling out a form on a bank's mainframe system. The program connects to the desired form by an IP and port. Each field on the form is downloaded and the data corresponding to the field. You can edit, update, delete, add fields as you desire. Every function is hardcoded as the client wanted a basic version of the program so they can develop it in-house themself at a future date.
+## 🏆 My Top Projects
 
-- **Socket Testing Bank (Java)**
-This is a private project, cannot be found on GitHub. This is a program for a popular bank in Europe. The bank requested a program to stress test specific ports on their system. A message at a certain byte size had to be sent. Then the program had to wait to receive a handshake confirming the data was sent successfully. Their request was to open a connection and send multiple pieces of data. In my opinion, this doesn't represent a real environment as there would be many nodes sending requests at one time however this is what the customer wanted.
+Here are some of my favorite projects:
 
-- **Instagram Automation Bot (Python)**
-This project can be found on my GitHub. This is a program that has been created to automate Instagram. The idea for this program was to automate and help grow my automotive Instagram page. The program had a list of hashtags and popular users stored. There were 3 main methods, 1st was to like and comment on pictures from a hashtag, 2nd was to follow users from a specific user's account, 3rd was to follow users from specific users' recently liked photos. The program gained quite a bit of publicity on my account.
+1. [Vehicle Health Check iOS](https://health-check.uk/)
+2. [Fitment Studio iOS](https://fitment.studio/)
+3. [Scraper](https://github.com/08brt/scraper)
 
-- **HeathCheck (Android & IOS) - https://health-check.uk/**
-This is a private project, cannot be found on GitHub. Both of the programs on Android and IOS have been created however not available on the store. This is an application dedicated to the automotive industry mainly focusing on body shops and mechanics. The first side of the app allows a mechanic to create a full vehicle health check report, store the report internally, export the report to a personal email or a customer email. The second side of the app is aimed at a Bodyshop. A report is created based on the vehicle's body panel condition. The report allows for up to 20 images to be sorted. Just like the previous side of the app, you can internally store these reports, export them to a personal email or a client's email. This is a live program currently being used by a garage.
+## 📫 Connect with Me
 
-- **BATMan (C#)**
-This is a private project, cannot be found on GitHub. This is a program that decodes a logfile from a mainframe system and creates an input file that would replicate what happened in the logfile. The input logfile is capped at a max of 10MB however you can input multiple logfiles. The program decodes character at a time as many factors come in place etc. There is a specific algorithm that decodes the log file so that it can be used as an input file to replicate the logfile. The program on average handles a 10MB file in 20 seconds. A tested collection of files with the size of 50MB has been decoded in 115 seconds. One of my most complicated log files as there were so many factors that came into play.
+- [LinkedIn](https://www.linkedin.com/in/bwieloch/)
+- [Personal Website/Blog](https://bxrrttt.com)
 
-- **Excel-Transfer (Java)**
-This project can be found on my GitHub. The program takes two Excel files 'Codebook' and 'Codeframe' as input. It then reads Codeframe and stores the keys that are stored in a hashmap. Then the program reads Codebook. Using the keys stored in the hashmap Codebook file is filled in.
