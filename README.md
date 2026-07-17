@@ -132,25 +132,9 @@ Brand and web work delivered end to end (logo, website, business cards, Google B
 
 ---
 
-## `05 //` GitHub
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=08brt&style=flat-square&color=6E56CF&label=Profile+Views)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=08brt&hide_border=true&theme=dark)
-
-</div>
-
----
-
-<div align="center">
-
-### `06 //` Let's Talk
+## `05 //` Let's Talk
 
 Forms are boring, so I'll keep it short. Reach out.
 
 [![Portfolio](https://img.shields.io/badge/bxrrttt.com-0A0A0A?style=for-the-badge&logo=firefox&logoColor=white)](https://bxrrttt.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-
-</div>
