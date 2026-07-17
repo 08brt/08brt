@@ -110,10 +110,10 @@ I care about clean architecture, resilient systems, and shipping solutions that 
 
 ## `03 //` Professional Work
 
-**Vehicle HealthCheck SaaS**
+**[Vehicle HealthCheck SaaS](https://health-check.uk/)**
 An all-in-one platform for full vehicle health check reports, built to replace pen-and-paper inspection systems.
 
-**FitmentStudio (iOS)**
+**[FitmentStudio (iOS)](https://fitment.studio/)**
 Master your fitment. A one-stop app for vehicle fitment covering a calculator, gallery, and sponsors.
 
 ---
@@ -122,13 +122,13 @@ Master your fitment. A one-stop app for vehicle fitment covering a calculator, g
 
 Brand and web work delivered end to end (logo, website, business cards, Google Business, mailing lists).
 
-| Client | Delivered |
+| Client | Website |
 | --- | --- |
-| **Liv Forward Coaching** | Website, Calendly, mailing list, logo |
-| **Merron Motor** | Logo, website, business cards, Google Business |
-| **OG Recovery** | Logo, website, business cards, Google Business |
-| **JMS MotorLink** | Logo, website, business cards, Google Business |
-| **SAS Laser** | Logo, website, business cards, Google Business |
+| **Liv Forward Coaching** | [livforwardcoaching.com](https://livforwardcoaching.com/) |
+| **Merron Motor** | [merron-motor.co.uk](https://merron-motor.co.uk/) |
+| **OG Recovery** | [ogrecovery.co.uk](https://www.ogrecovery.co.uk/) |
+| **JMS MotorLink** | [jmsmotorlink.co.uk](https://jmsmotorlink.co.uk/) |
+| **SAS Laser** | [saslaser.co.uk](https://saslaser.co.uk/) |
 
 ---
 
@@ -136,10 +136,9 @@ Brand and web work delivered end to end (logo, website, business cards, Google B
 
 <div align="center">
 
-![Bart's GitHub stats](https://github-readme-stats.vercel.app/api?username=08brt&show_icons=true&hide_border=true&theme=dark&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=08brt&layout=compact&hide_border=true&theme=dark&langs_count=8)
+![Profile Views](https://komarev.com/ghpvc/?username=08brt&style=flat-square&color=6E56CF&label=Profile+Views)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=08brt&hide_border=true&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=08brt&hide_border=true&theme=dark)
 
 </div>
 
