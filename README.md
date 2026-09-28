@@ -108,31 +108,7 @@ I care about clean architecture, resilient systems, and shipping solutions that 
 
 ---
 
-## `03 //` Professional Work
-
-**[Vehicle HealthCheck SaaS](https://health-check.uk/)**
-An all-in-one platform for full vehicle health check reports, built to replace pen-and-paper inspection systems.
-
-**[FitmentStudio (iOS)](https://fitment.studio/)**
-Master your fitment. A one-stop app for vehicle fitment covering a calculator, gallery, and sponsors.
-
----
-
-## `04 //` Freelance
-
-Brand and web work delivered end to end (logo, website, business cards, Google Business, mailing lists).
-
-| Client | Website |
-| --- | --- |
-| **Liv Forward Coaching** | [livforwardcoaching.com](https://livforwardcoaching.com/) |
-| **Merron Motor** | [merron-motor.co.uk](https://merron-motor.co.uk/) |
-| **OG Recovery** | [ogrecovery.co.uk](https://www.ogrecovery.co.uk/) |
-| **JMS MotorLink** | [jmsmotorlink.co.uk](https://jmsmotorlink.co.uk/) |
-| **SAS Laser** | [saslaser.co.uk](https://saslaser.co.uk/) |
-
----
-
-## `05 //` Let's Talk
+## `03 //` Let's Talk
 
 Forms are boring, so I'll keep it short. Reach out.
 
